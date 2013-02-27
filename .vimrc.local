@@ -1,0 +1,14 @@
+UnBundle 'myusuf3/numbers.vim'
+
+set nocursorline
+
+set nonumber
+set norelativenumber
+set virtualedit=all
+
+set nospell
+
+let g:indent_guides_enable_on_vim_startup = 0
+
+let g:pymode_options = 0
+let g:pymode_lint_write = 0
